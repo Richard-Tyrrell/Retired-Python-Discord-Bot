@@ -165,4 +165,4 @@ async def on_command_error(ctx, error):
         pharses=random.choice(cdPhrases)
         await ctx.send(pharses)
 
-client.run('Not allowed to publish this token publicly. Discord will remove the bot.)#Bot token goes here
+client.run('Not allowed to publish this token publicly. Discord will remove the bot.')#Bot token goes here
